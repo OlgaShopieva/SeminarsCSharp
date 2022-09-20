@@ -5,14 +5,8 @@
 Console.Clear();
 
 Console.WriteLine("Введите трёхзначное число");
-string num = (Console.ReadLine());
+string num = Console.ReadLine();
+    
+Console.WriteLine($"Вторая цифра числа {num}: {num.ToString()[1]}");
 
-if (num.Length == 3)
-{
- Console.WriteLine($"Вторая цифра числа {num}: {num.ToString()[1]}");
-}
-else
-{
-    Console.WriteLine("Вы ввели не трёхзначное число");
-}
 
