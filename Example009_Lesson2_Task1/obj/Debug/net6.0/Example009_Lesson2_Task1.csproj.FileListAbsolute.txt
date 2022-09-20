@@ -1,0 +1,15 @@
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.Seminar_C#\Example009_Lesson2_Task1\bin\Debug\net6.0\Example009_Lesson2_Task1.exe
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.Seminar_C#\Example009_Lesson2_Task1\bin\Debug\net6.0\Example009_Lesson2_Task1.deps.json
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.Seminar_C#\Example009_Lesson2_Task1\bin\Debug\net6.0\Example009_Lesson2_Task1.runtimeconfig.json
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.Seminar_C#\Example009_Lesson2_Task1\bin\Debug\net6.0\Example009_Lesson2_Task1.dll
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.Seminar_C#\Example009_Lesson2_Task1\bin\Debug\net6.0\Example009_Lesson2_Task1.pdb
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.Seminar_C#\Example009_Lesson2_Task1\obj\Debug\net6.0\Example009_Lesson2_Task1.csproj.AssemblyReference.cache
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.Seminar_C#\Example009_Lesson2_Task1\obj\Debug\net6.0\Example009_Lesson2_Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.Seminar_C#\Example009_Lesson2_Task1\obj\Debug\net6.0\Example009_Lesson2_Task1.AssemblyInfoInputs.cache
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.Seminar_C#\Example009_Lesson2_Task1\obj\Debug\net6.0\Example009_Lesson2_Task1.AssemblyInfo.cs
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.Seminar_C#\Example009_Lesson2_Task1\obj\Debug\net6.0\Example009_Lesson2_Task1.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.Seminar_C#\Example009_Lesson2_Task1\obj\Debug\net6.0\Example009_Lesson2_Task1.dll
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.Seminar_C#\Example009_Lesson2_Task1\obj\Debug\net6.0\refint\Example009_Lesson2_Task1.dll
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.Seminar_C#\Example009_Lesson2_Task1\obj\Debug\net6.0\Example009_Lesson2_Task1.pdb
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.Seminar_C#\Example009_Lesson2_Task1\obj\Debug\net6.0\Example009_Lesson2_Task1.genruntimeconfig.cache
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.Seminar_C#\Example009_Lesson2_Task1\obj\Debug\net6.0\ref\Example009_Lesson2_Task1.dll
