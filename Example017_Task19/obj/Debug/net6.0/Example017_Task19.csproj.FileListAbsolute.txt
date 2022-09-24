@@ -1,0 +1,15 @@
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.Seminar_C#\Example017_Task19\bin\Debug\net6.0\Example017_Task19.exe
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.Seminar_C#\Example017_Task19\bin\Debug\net6.0\Example017_Task19.deps.json
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.Seminar_C#\Example017_Task19\bin\Debug\net6.0\Example017_Task19.runtimeconfig.json
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.Seminar_C#\Example017_Task19\bin\Debug\net6.0\Example017_Task19.dll
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.Seminar_C#\Example017_Task19\bin\Debug\net6.0\Example017_Task19.pdb
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.Seminar_C#\Example017_Task19\obj\Debug\net6.0\Example017_Task19.csproj.AssemblyReference.cache
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.Seminar_C#\Example017_Task19\obj\Debug\net6.0\Example017_Task19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.Seminar_C#\Example017_Task19\obj\Debug\net6.0\Example017_Task19.AssemblyInfoInputs.cache
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.Seminar_C#\Example017_Task19\obj\Debug\net6.0\Example017_Task19.AssemblyInfo.cs
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.Seminar_C#\Example017_Task19\obj\Debug\net6.0\Example017_Task19.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.Seminar_C#\Example017_Task19\obj\Debug\net6.0\Example017_Task19.dll
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.Seminar_C#\Example017_Task19\obj\Debug\net6.0\refint\Example017_Task19.dll
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.Seminar_C#\Example017_Task19\obj\Debug\net6.0\Example017_Task19.pdb
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.Seminar_C#\Example017_Task19\obj\Debug\net6.0\Example017_Task19.genruntimeconfig.cache
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.Seminar_C#\Example017_Task19\obj\Debug\net6.0\ref\Example017_Task19.dll
