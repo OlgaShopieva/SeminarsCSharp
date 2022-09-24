@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Example020_TaskExtra1Circle/1.0.0": {
+        "runtime": {
+          "Example020_TaskExtra1Circle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Example020_TaskExtra1Circle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
