@@ -1,0 +1,15 @@
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.HomeworkC#\MoveArray\obj\Debug\net6.0\MoveArray.csproj.AssemblyReference.cache
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.HomeworkC#\MoveArray\obj\Debug\net6.0\MoveArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.HomeworkC#\MoveArray\obj\Debug\net6.0\MoveArray.AssemblyInfoInputs.cache
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.HomeworkC#\MoveArray\obj\Debug\net6.0\MoveArray.AssemblyInfo.cs
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.HomeworkC#\MoveArray\obj\Debug\net6.0\MoveArray.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.HomeworkC#\MoveArray\bin\Debug\net6.0\MoveArray.exe
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.HomeworkC#\MoveArray\bin\Debug\net6.0\MoveArray.deps.json
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.HomeworkC#\MoveArray\bin\Debug\net6.0\MoveArray.runtimeconfig.json
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.HomeworkC#\MoveArray\bin\Debug\net6.0\MoveArray.dll
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.HomeworkC#\MoveArray\bin\Debug\net6.0\MoveArray.pdb
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.HomeworkC#\MoveArray\obj\Debug\net6.0\MoveArray.dll
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.HomeworkC#\MoveArray\obj\Debug\net6.0\refint\MoveArray.dll
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.HomeworkC#\MoveArray\obj\Debug\net6.0\MoveArray.pdb
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.HomeworkC#\MoveArray\obj\Debug\net6.0\MoveArray.genruntimeconfig.cache
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.HomeworkC#\MoveArray\obj\Debug\net6.0\ref\MoveArray.dll
