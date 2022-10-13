@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BinaryArray_Order/1.0.0": {
+        "runtime": {
+          "BinaryArray_Order.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BinaryArray_Order/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
