@@ -1,0 +1,15 @@
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.HomeworkC#\RecursiaNOD\bin\Debug\net6.0\RecursiaNOD.exe
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.HomeworkC#\RecursiaNOD\bin\Debug\net6.0\RecursiaNOD.deps.json
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.HomeworkC#\RecursiaNOD\bin\Debug\net6.0\RecursiaNOD.runtimeconfig.json
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.HomeworkC#\RecursiaNOD\bin\Debug\net6.0\RecursiaNOD.dll
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.HomeworkC#\RecursiaNOD\bin\Debug\net6.0\RecursiaNOD.pdb
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.HomeworkC#\RecursiaNOD\obj\Debug\net6.0\RecursiaNOD.csproj.AssemblyReference.cache
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.HomeworkC#\RecursiaNOD\obj\Debug\net6.0\RecursiaNOD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.HomeworkC#\RecursiaNOD\obj\Debug\net6.0\RecursiaNOD.AssemblyInfoInputs.cache
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.HomeworkC#\RecursiaNOD\obj\Debug\net6.0\RecursiaNOD.AssemblyInfo.cs
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.HomeworkC#\RecursiaNOD\obj\Debug\net6.0\RecursiaNOD.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.HomeworkC#\RecursiaNOD\obj\Debug\net6.0\RecursiaNOD.dll
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.HomeworkC#\RecursiaNOD\obj\Debug\net6.0\refint\RecursiaNOD.dll
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.HomeworkC#\RecursiaNOD\obj\Debug\net6.0\RecursiaNOD.pdb
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.HomeworkC#\RecursiaNOD\obj\Debug\net6.0\RecursiaNOD.genruntimeconfig.cache
+C:\Users\Ольга\OneDrive\Рабочий стол\GeekBrains\2.HomeworkC#\RecursiaNOD\obj\Debug\net6.0\ref\RecursiaNOD.dll
